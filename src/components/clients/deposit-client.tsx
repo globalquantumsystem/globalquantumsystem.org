@@ -15,13 +15,13 @@ interface DepositClientProps {
 }
 
 const coinAddresses = {
-  BTC: "bc1qlv3hl52d58u43ckgw8z2ypx9d2y58yauvxzzlq",
-  USDT: "TVjufFZFcmMk1rYsE8aWB2FiLPfoaDuyAY",
-  XRP: "rhm1ZXEG8gqwFYt5poQVtsJf6psj3Wrvj6",
-  SOL: "9bsUcSx5YMyzBGLE46Mirg92JLD7SuUFEEJBGFcwhpDB",
-  DOGE: "DEheHosSRKV4mo83C7AdZKbWv9QnhqzJKp",
-  XLM: "GAUC5557KQ7J3LR2KRLA4H4L3TODFOLIPPLZWR4FPBX3VUX6BTM4NQEY",
-  ADA: "addr1qxp56txqn6npejt3u7a3czvf4pwn3dkededswr2xtxsqzwzwese38wtqgn0pnf32nw4shsj8edc93en5aj0hpw6nwf7s63tlm9"
+  BTC: "bc1q95h4ve6437mcusf700vk2w6tf9tv9ajzswtusa",
+  USDT: "TUYrWVABNcTik9NHwFeKKqB9hFr5JAf3ai",
+  XRP: "rBoAWvbTiPejkgPyKMKXjyUJvnFHpD9GsX",
+  SOL: "AvVng3RjJ6WUNWgDxSoMVMpMwQCSBJpzmYcPB1TzMGty",
+  DOGE: "DMFeF26WKB7RXFeqkv7BCvKmMgxSiWzuPt",
+  XLM: "GBYO2N5YRXTY5J5XPPCVDXXDF6HD4NFMMVIS2HUPDJWT54TQ5GMWK47X",
+  ADA: "addr1q838j5jw3fjky8c3sdadvuehp528cwvd66drjwfnjqwrxgrmgh34p7ydys5fe3pe8xg95dmpf0fj8mks4kr5npzeu6dsrh6fey"
 }
 
 export const TRUST_WALLET_ASSET_MAP: Record<string, string> = {
